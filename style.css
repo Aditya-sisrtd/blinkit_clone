@@ -26,3 +26,16 @@
   justify-content: space-between;
   flex-wrap: wrap;
 }
+#cards_container{
+  width: 85%;
+  margin: auto !important;
+  
+  overflow: hidden;
+}
+.list{
+  text-wrap: nowrap;
+  overflow-x: scroll;
+}
+.list>img{
+  margin-right: 20px !important;
+}
