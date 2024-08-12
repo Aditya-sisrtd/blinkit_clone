@@ -19,3 +19,10 @@
   background-color: transparent;
   height: 40px;
 }
+#categories_section{
+  width: 85%;
+  margin: auto !important;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
